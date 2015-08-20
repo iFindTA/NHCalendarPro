@@ -108,15 +108,6 @@
     [_calendar showMonth:monthDate];
 }
 
-- (NSDateFormatter *) dateFormatter {
-    static NSDateFormatter *_dateFormmater;
-    static dispatch_once_t onceToken;
-    dispatch_once(&onceToken, ^{
-        _dateFormmater = [[NSDateFormatter alloc] init];
-    });
-    return _dateFormmater;
-}
-
 #pragma mark - Calendar Delegate
 
 - (BOOL)canChangeToDate:(NSDate *)date {

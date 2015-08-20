@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A753B6E-DEDC-4283-9079-7DDA7BA21966</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NHCalendarPro</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D741DA2835472ACD8DA5976D6C44EFB11509BECF</key>
+		<string>https://github.com/iFindTA/NHCalendarPro.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NHCalendarPro.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D741DA2835472ACD8DA5976D6C44EFB11509BECF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iFindTA/NHCalendarPro.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D741DA2835472ACD8DA5976D6C44EFB11509BECF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D741DA2835472ACD8DA5976D6C44EFB11509BECF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NHCalendarPro</string>
+		</dict>
+	</array>
+</dict>
+</plist>
