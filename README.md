@@ -13,8 +13,8 @@
     _calendar.borderSelectColor = [UIColor blackColor];
     [self.view addSubview:_calendar];
 
-<\br>如果某一天有事件需要标注，则在委托方法：
+如果某一天有事件需要标注，则在委托方法：
 - (UIColor *)titleColorForDate:(NSDate *)date；
 - (UIColor *)borderColorForDate:(NSDate *)date；
 - (UIColor *)titleColorForDate:(NSDate *)date；
-<\br>中自定义。
+中自定义。
