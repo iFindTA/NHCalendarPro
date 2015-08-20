@@ -17,4 +17,4 @@
     - (UIColor *)titleColorForDate:(NSDate *)date；
     - (UIColor *)borderColorForDate:(NSDate *)date；
     - (UIColor *)backgroundColorForDate:(NSDate *)date；
-##<br/>中自定义。
+##中自定义。
