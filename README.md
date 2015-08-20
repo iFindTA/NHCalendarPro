@@ -1,6 +1,6 @@
 # NHCalendarPro
 高度自定义日历控件（For iOS）
-![image](/Users/nanhujiaju/Desktop/iOS Simulator Screen Shot 2015年8月20日 上午10.02.32.png)
+![image](https://github.com/iFindTA/NHCalendarPro/blob/master/screenshots/screen1.png)
 
 
 使用方法：
